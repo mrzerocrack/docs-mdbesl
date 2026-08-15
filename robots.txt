@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-r6ra3x.salamkita.cfd/sitemap.xml
